@@ -1,0 +1,141 @@
+.maindiv{
+    background-color:rgb(216, 222, 231);
+    background-image: url(../Imgs/rio-nav.webp);
+    background-repeat: no-repeat;
+    height: 610px;
+    position: sticky;
+    top: 0;
+}
+.maindiv2{
+    background-color:rgb(216, 222, 231);
+    background-image: url(../Imgs/cntct.webp);
+    background-repeat: no-repeat;
+    height: 610px;
+    margin-top: 599px;
+    /* position: sticky; */
+    top: 0;
+}
+.Fdiv{
+    background-color:rgb(192, 208, 232);
+
+}
+.first{
+    position: relative;
+    z-index: 1000;
+}
+.naav2{
+    height: 120px;
+    /* background-image: url(../Imgs/rio-nav.webp); */
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+.navelement{
+    margin-left: 280px;
+    font-size: larger;
+    color:white;
+}
+.navelement1{
+    margin-left: 100px;
+    font-size: larger;
+    color: brown;
+
+}
+.navelement2{
+    margin-left: 100px;
+    font-size: larger;
+    color: white;
+}
+.navelement3{
+    margin-left: 100px;
+    font-size: larger;
+    color: white;
+
+}
+.navelement4{
+    margin-left: 100px;
+    font-size: larger;
+    color: brown;
+}
+.div1{
+    margin-top: -599px;
+    /* background-color: white; */
+    height: 599px;
+    width: 50%;
+    margin-left: 25%;
+}
+.welcome{
+    font-size: 4rem;
+    color: white;
+    font-family: ui-monospace;
+    /* margin-left: 758px; */
+    text-align: center;
+    margin-top: 90px;
+}
+.rioimg2{
+    margin-left: 465px;}
+.div2{
+    height: 270px;
+    background-color: rgb(252, 247, 247);
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+.hello{
+    color: black;
+}
+.div3{
+    width: 35%;
+    padding-top: 50px;
+}
+.div4{
+    width: 65%;
+    margin-left: 35%;
+    margin-top: -150px;
+}
+.para1{
+    color: rgb(87, 85, 85);
+    text-align: center;
+}
+.hr1{
+    width: 70px;
+    color: orangered;
+    margin-left: 135px;
+}
+.map{
+    border-width: 0ch;
+    height: 35px;
+    width: 100px;
+    background-color: #f3f2f2;
+    color: rgb(87, 85, 85); 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 10px;
+}
+.footerdiv{
+    margin-top: 346px;
+}
+.nameinput{
+    height: 49px;
+    width: 83%;
+}
+.emailinput{
+    height: 49px;
+    width: 83%;
+    margin-top: 35px;
+}
+.textinput{
+    width: 91%;
+    height: 100px!important ;
+    margin-top: 35px;
+}
+.lastfooter{
+    height: 370px;
+    background-color: rgb(252, 247, 247);
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+.error{
+    color: red;
+    margin-left:-380px
+}
